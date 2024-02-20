@@ -1,4 +1,4 @@
-# CTIS-164 Technical Mathematics with Programming Course Homeworks
+# CTIS-164 Technical Mathematics with Programming Homeworks
 
 Homework 1 - Car Race
 
